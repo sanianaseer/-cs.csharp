@@ -6,10 +6,15 @@ namespace Hello_World
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int i = 10;
+             
+            Console.WriteLine(i=10 );
+            Console.ReadLine();
+         
 
 
-        
+
+
         }
     }
 }
